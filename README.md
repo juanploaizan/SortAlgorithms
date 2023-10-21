@@ -6,27 +6,27 @@ a la pregunta. En cada celda se debe indicar el tiempo que tarda en ordenar cada
 
 ## Métodos de ordenamiento:
 
-### TimSort
+### algorithms.TimSort
 
 
-### CombSort
+### algorithms.CombSort
 
-### SelectionSort
+### algorithms.SelectionSort
 
-### TreeSort.TreeSort
+### algorithms.TreeSort.algorithms.TreeSort
 
 ### PigeonHoleSort
 
-### BucketSort
+### algorithms.BucketSort
 
-### QuickSort
+### algorithms.QuickSort
 
-### HeapSort
+### algorithms.HeapSort
 
-### BitonicSort
+### algorithms.BitonicSort
 
-### GnomeSort
+### algorithms.GnomeSort
 
-### BinaryInsertionSort
+### algorithms.BinaryInsertionSort
 
-### RadixSort
+### algorithms.RadixSort
